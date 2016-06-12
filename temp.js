@@ -1,11 +1,5 @@
 Cors
-https://github.com/expressjs/cors
 
-Robert
-secret
-
-eddibble
-023f79267612f7f00e3dd7871a12463f50d7019b
 
 Content-Type  application/json
 
